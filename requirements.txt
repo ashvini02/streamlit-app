@@ -4,5 +4,6 @@ requests
 langchain
 langchain-groq
 langchain-core
+langchain-community
 faiss-cpu
 sentence-transformers
