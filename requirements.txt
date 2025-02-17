@@ -1,0 +1,8 @@
+streamlit
+beautifulsoup4
+requests
+langchain
+langchain-groq
+langchain-core
+faiss-cpu
+sentence-transformers
